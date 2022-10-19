@@ -26,6 +26,7 @@ public class Practice {
 
 		
 		System.out.println("second change in local");
+		System.out.println("third local change by sanjay");
 
 		System.out.println("making Direct changes to Global");
 
