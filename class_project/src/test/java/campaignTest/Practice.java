@@ -23,9 +23,14 @@ public class Practice {
 
 		
 		System.out.println("Change in local");
+
 		
 		System.out.println("second change in local");
 
 		System.out.println("making Direct changes to Global");
+
+		System.out.println("making Direct changes to Global");
+		System.out.println("Second change in global");
+
 	}
 }
