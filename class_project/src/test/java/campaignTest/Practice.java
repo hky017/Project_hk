@@ -20,5 +20,6 @@ public class Practice {
 		
 		Assert.assertEquals(actualBooleanResult, expectedlBooleanResult);
 		System.out.println("Pass");
+		System.out.println("making Direct changes to Global")
 	}
 }
