@@ -31,6 +31,7 @@ public class Practice {
 
 		System.out.println("making Direct changes to Global");
 		System.out.println("Second change in global");
+		System.out.println("third change in global");
 
 	}
 }
